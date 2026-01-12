@@ -1,7 +1,7 @@
-![screenshot of checkpoint 1](/home/ifeco/Pictures/Screenshots/checkpoint1.png)
-![screenshot of checkpoint 2](/home/ifeco/Pictures/Screenshots/checkpoint2.png)
-![screenshot of checkpoint 3](/home/ifeco/Pictures/Screenshots/checkpoint3.png)
-![screenshot of checkpoint 4](/home/ifeco/Pictures/Screenshots/checkpoint4.png)
+![screenshot of checkpoint 1](checkpoint1.png)
+![screenshot of checkpoint 2](checkpoint2.png)
+![screenshot of checkpoint 3](checkpoint3.png)
+![screenshot of checkpoint 4](checkpoint4.png)
 
 # A brief reflection: What was challenging?
 I didn't find anything chanllenging after going through the recorded video of the class.
